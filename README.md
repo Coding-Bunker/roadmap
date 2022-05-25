@@ -1,4 +1,5 @@
-# roadmap-2022
+![intro-banner](github-header-image.png)
+
 Lista delle attività della community
 
 1. Aggiornamento partnership

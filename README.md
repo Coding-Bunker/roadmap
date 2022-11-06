@@ -2,11 +2,11 @@
 
 Lista delle attività della community
 
-1. Aggiornamento partnership
-2. Update server Discord
-3. Pianificazione eventi live con calendario
-4. Trovare sedi fisiche per eventi
-5. Apertura shop online per merchandising
-6. Apertura Brand ASCII by Coding Bunker
-7. Finalizzare il nuovo sito web
-8. Aggiornamento staff
+- [ ] Aggiornamento partnership
+- [ ] Update server Discord
+- [ ] Pianificazione eventi live con calendario
+- [ ] Trovare sedi fisiche per eventi
+- [ ] Apertura shop online per merchandising
+- [ ] Apertura Brand ASCII by Coding Bunker
+- [ ] Finalizzare il nuovo sito web
+- [ ] Aggiornamento staff
